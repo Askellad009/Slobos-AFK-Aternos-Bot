@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Askeladd009-qe2i.aternos.me:",
+    "ip": "Askeladd009-qe2i.aternos.me",
     "port": 62168,
     "version": "",
     "try-creative": false
