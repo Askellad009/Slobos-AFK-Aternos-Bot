@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EtherealValley.aternos.me"
+    "ip": "EtherealValley.aternos.me",
     "port": 48334,
     "version": "",
     "try-creative": false
